@@ -78,6 +78,7 @@ If you want to contribute to this list, then please read the [contributing guide
 - [Libraries](#libraries)
 - [Tutorials](#tutorials)
 - [Videos](#videos)
+- [Projects using SurrealDB](#projects-using-surrealdb)
 
 ## Applications
 - [SurrealDB](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web.
@@ -128,6 +129,6 @@ If you want to contribute to this list, then please read the [contributing guide
 - [SurrealDB. The Kitchen Sink Document Store that might dethrone Firebase](https://www.youtube.com/watch?v=tWpj8Bc_jBQ) - Ray Villalobos.
 
 ## Projects using SurrealDB
-- [Kards Social](https://github.com/theopensource-company/kards-social) - FOSS social media app
+- [Kards Social](https://github.com/theopensource-company/kards-social) - FOSS social media app.
 - [Nextjs + surrealdb demo](https://github.com/kearfy/demo-nextjs-surrealdb) - Basic blog that serves as a demo / template for your nextjs + surrealdb project!
-- [Playrbase](https://github.com/theopensource-company/playrbase) - Event & player management system
+- [Playrbase](https://github.com/theopensource-company/playrbase) - Event & player management system.
